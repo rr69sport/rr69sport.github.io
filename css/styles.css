@@ -51,7 +51,7 @@
 
 html {
   scroll-behavior: smooth;
-  font-size: clamp(1rem, 1.3vw, 1.5rem);
+  /* font-size: clamp(1rem, 1.3vw, 1.5rem); */
 }
 
 body {
@@ -64,7 +64,7 @@ body {
 h1 {
   text-align: center;
   color: var(--main-color);
-  font-size: clamp(2rem, 3.5vw, 3rem);
+  /* font-size: clamp(2rem, 3.5vw, 3rem); */
 }
 
 h1,
@@ -111,7 +111,7 @@ img {
 
 .project {
   max-width: 300px;
-  font-size: .9em;
+  /* font-size: .9em; */
 }
 
 .project__link {
